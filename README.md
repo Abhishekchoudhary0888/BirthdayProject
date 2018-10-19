@@ -1,3 +1,12 @@
+Steps to make app run:
+
+1) npm i --save react
+2) npm i --save react-redux
+3) npm i --save redux
+4) npm i --save moment
+5) npm start
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
